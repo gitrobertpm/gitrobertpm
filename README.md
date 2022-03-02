@@ -21,6 +21,7 @@ Hit me up on [LinkedIn](https://www.linkedin.com/in/robertpm/)
 -or-
 
 Shoot me an email: robertpm@robertpom.com
+---
 
 <!--
 **gitrobertpm/gitrobertpm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
