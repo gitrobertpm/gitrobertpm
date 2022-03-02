@@ -10,7 +10,7 @@ I'm the ultimate team player. And my positive friendly attitude is good for mora
 
 And when I'm not working, I love to learn new things and spend time with my family. I love to watch movies and play the guitar and play video games with my kids. I love the outdoors, but don't get out there as much as I should. I love to read and build things. And whenever possible, I love to ponder the meaning of life, the nature of reality, the essence of truth, the mystery of consciousness, and the clockworks of the human condition.
 
-####⚡Check out [my portfolio](https://robertpm.netlify.app/home) ⚡
+#### ⚡Check out [my portfolio](https://robertpm.netlify.app/home) ⚡
 
 ---
 
