@@ -2,7 +2,6 @@
 ---
 
 ### 😄 About Me:
----
 
 I'm a Front End devloper with full stack experience.  I started playing around with web development back in 2014. Fell in love with it right away. Studied for a couple years and landed myself a small contract role as a mentor at an online coding bootcamp in March of 2016. Been working and growing in this industry ever since. Most recently as a Frontend React Developer for a mid-size firm building enormous applications for large corporate clients.
 
@@ -16,7 +15,6 @@ And when I'm not working, I love to learn new things and spend time with my fami
 ---
 
 ### 📫 How to reach me:
----
 
 Hit me up on [LinkedIn](https://www.linkedin.com/in/robertpm/)
 
