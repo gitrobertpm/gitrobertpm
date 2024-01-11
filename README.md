@@ -1,13 +1,11 @@
-### Hi there 👋
+### Hi there 
 ---
 
-### 😄 About Me:
+I’ve worked on a number of production apps with some amazing teams in Agile-like environments. My contributions have included new features, bug fixes, style refactors, accessibility updates, dependency and version updates, unit tests, internationalization, and documentation.
 
-I'm a Front End devloper with full stack experience.  I started playing around with web development back in 2014. Fell in love with it right away. Studied for a couple years and landed myself a small contract role as a mentor at an online coding bootcamp in March of 2016. Been working and growing in this industry ever since. Most recently as a Frontend React Developer for a mid-size firm building enormous applications for large corporate clients.
+But I like to think that the most valuable asset I bring to the table is an optimistic and encouraging attitude. What fuels this positive temperament? I’m a bit of a people-pleaser. I really don’t like conflict. I hate it when others feel bad. And when there’s a problem or we’re in the weeds or the sprint is bearing down, getting upset or frustrated only makes things worse. But a friendly smile and a dash of good cheer can really go a long way in the other direction. 
 
-I'm the ultimate team player. And my positive friendly attitude is good for morale. I prefer to take my time to try to get things right the first time. And I take pride in my work and the hope that I'm making things better along the way.
-
-And when I'm not working, I love to learn new things and spend time with my family. I love to watch movies and play the guitar and play video games with my kids. I love the outdoors, but don't get out there as much as I should. I love to read and build things. And whenever possible, I love to ponder the meaning of life, the nature of reality, the essence of truth, the mystery of consciousness, and the clockworks of the human condition.
+So, whether your team is building something new, maintaining or updating something old, or just tackling tech debt, reach out. I’m happy to help.
 
 ---
 
