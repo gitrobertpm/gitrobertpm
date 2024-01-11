@@ -9,7 +9,7 @@ So, whether your team is building something new, maintaining or updating somethi
 
 ---
 
-### ⚡Check out [my portfolio](https://robertpm.netlify.app/home) ⚡
+### Check out [my portfolio](https://robertpm.netlify.app/home)
 ---
 
 ### 📫 How to reach me:
