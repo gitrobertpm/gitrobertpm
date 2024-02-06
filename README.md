@@ -1,9 +1,9 @@
-### Hi there 
+### Greetings!
 ---
 
-I’ve worked on a number of production apps with some amazing teams in Agile-like, CI/CD environments. Most of my experience is building things with JavaScript FE frameworks/libraries like React and Vue, and styling them with CSS/Sass. My contributions have included new features, bug fixes, style refactors, accessibility updates, dependency and version updates, unit tests, internationalization, and documentation.
+I’ve worked on a number of production applications with some amazing, diverse and remote teams in Agile-like, CI/CD environments. Some of those projects live on web apps for XBOX, Hydro Flask and Leatherman, among others. Most of my experience is building things with JavaScript FE libraries like React and Vue, and styling them with CSS/Sass. But I have worked with Backend and database technologies as well. My contributions have included new features, bug fixes, style refactors, accessibility updates, dependency and version updates, unit tests, internationalization, and documentation.
 
-But I like to think that the most valuable asset I bring to the table is an optimistic and encouraging attitude. What fuels this positive temperament? I’m a bit of a people-pleaser. I really don’t like conflict. I hate it when others feel bad. And history has proven time and again that when there’s a problem or we’re in the weeds or the sprint is bearing down, a friendly smile and a dash of good cheer bear more fruit than getting upset or frustrated. 
+But perhaps the most valuable asset I bring is an optimistic and encouraging attitude. What fuels this positive temperament? I’m a bit of a people-pleaser. I dislike conflict and when others feel bad. And a friendly smile and good cheer tend to get better results than the alternative. 
 
 So, whether your team is building something new, maintaining or updating something old, or just tackling tech debt, reach out. I’m happy to help. Best wishes!
 
