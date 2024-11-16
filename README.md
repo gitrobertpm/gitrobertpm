@@ -18,7 +18,7 @@ Hit me up on [LinkedIn](https://www.linkedin.com/in/robertpm/)
 
 -or-
 
-Shoot me an email: robertpm@robertpom.com
+Shoot me an email: robertpm@robertpm.com
 
 ---
 
